@@ -1,16 +1,16 @@
 # Airline Interview
 
 # Contents:
-  -Data cleaning and transformation
+1. Data cleaning and transformation
    -Contains the jupiter notebook where data cleaning and transformation. The #1 first objective is answered in this file.
 
-  -Requirements
+2. Requirements
    -Contains a .txt file with the required libraries and their most efficient versions.
 
-  -Airport delay analysis
+3. Airport delay analysis
    -Contains the jupiter notebook where analysis is conducted. Objectives #2 & #3 are answered in this file.
 
-  -Presentation
+4. Presentation
    -Contains the final presentation of the project.
 
 # Instructions given:
