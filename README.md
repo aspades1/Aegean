@@ -1,19 +1,19 @@
-#Airline Interview
+# Airline Interview
 
-#Contents:
-  Data cleaning and transformation
-    Contains the jupiter notebook where data cleaning and transformation. The #1 first objective is answered in this file.
+# Contents:
+  -Data cleaning and transformation
+   -Contains the jupiter notebook where data cleaning and transformation. The #1 first objective is answered in this file.
 
-  Requirements
-    Contains a .txt file with the required libraries and their most efficient versions.
+  -Requirements
+   -Contains a .txt file with the required libraries and their most efficient versions.
 
-  Airport delay analysis
-    Contains the jupiter notebook where analysis is conducted. Objectives #2 & #3 are answered in this file.
+  -Airport delay analysis
+   -Contains the jupiter notebook where analysis is conducted. Objectives #2 & #3 are answered in this file.
 
-  Presentation
-    Contains the final presentation of the project.
+  -Presentation
+   -Contains the final presentation of the project.
 
-#Instructions given:
+# Instructions given:
 
 Please submit the description of the execution plan, the code, the output, and any comments.
 
@@ -30,7 +30,7 @@ Task 2: We would like to perform an analysis in the top 10 airports in terms of 
 Task 3: We would like to find the association, if any, between these top 10 airports and the aircraft that had no previous arrival delay (ARRIVAL_DELAY < 15) on a given day but they had arrival delay > 15 mins as soon as they departed from these airports. Please create any metrics and plots and use any technique you deem necessary to indicate the potential existence of such a phenomenon.
 
 
-#Project Description:
+# Project Description:
 The main concept is to: 
 -identify delays in airports. 
 -find the lowest performing airports. 
